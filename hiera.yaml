@@ -1,0 +1,12 @@
+---
+:backends:
+  - yaml
+  - file
+:yaml:
+  :datadir: ./hieradata
+:file:
+  :datadir: ./hieradata
+  :interpolate: false # defaults to true
+:hierarchy:
+  - desktop
+  - common

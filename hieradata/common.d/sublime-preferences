@@ -1,0 +1,8 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"font_face": "Hack",
+	"trim_trailing_white_space_on_save": true,
+}

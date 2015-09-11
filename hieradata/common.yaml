@@ -1,0 +1,11 @@
+---
+# Put your hiera content here
+username: User
+sublime_key: Changeme
+packages:
+  - sublimetext3.app
+  - dropbox
+  - google-chrome-x64
+  - foxitreader
+  - 7zip
+  - keepass
