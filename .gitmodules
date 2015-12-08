@@ -1,0 +1,3 @@
+[submodule "modules/hiera-file"]
+	path = modules/hiera-file
+	url = https://github.com/adrienthebo/hiera-file.git
